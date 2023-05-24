@@ -22,6 +22,6 @@ The first eight weeks will provide you with the necessary building blocks for cr
 - [Week 7](https://github.com/GSG-CA/curriculum/blob/main/coursebook/week-7/README.md) - Authentication
 - [Week 8](https://github.com/GSG-CA/curriculum/blob/main/coursebook/week-8/README.md) - NodeJS Extra Topics
 - [Week 9](https://github.com/GSG-CA/curriculum/blob/main/coursebook/week-9/README.md) - Reading Week
-- [Week 10](https://github.com/GSG-CA/curriculum/blob/main/coursebook/week-10/README.md) - React Week
-- [Week 11](https://github.com/GSG-CA/curriculum/blob/main/coursebook/week-11/README.md) - React project week
-- [Week 12](https://github.com/GSG-CA/curriculum/blob/main/coursebook/week-12/README.md) - Front-End Advance Week
+- [Week 10](https://github.com/GSG-CA/curriculum/blob/main/coursebook/week-10/README.md) - React
+- [Week 11](https://github.com/GSG-CA/curriculum/blob/main/coursebook/week-11/README.md) - React Project
+- [Week 12](https://github.com/GSG-CA/curriculum/blob/main/coursebook/week-12/README.md) - Advance Front-End
